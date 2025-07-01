@@ -6,6 +6,7 @@ This is an interactive Power BI dashboard analyzing sales performance data from 
 
 
 Short Description
+
 Blinkit's sales data analyzes using Excel, Python, SQL, and Power BI to uncover trends in revenue, product performance, outlet types, and customer behavior. The interactive Power BI dashboard visualizes KPIs like Total Sales ($1.2M), Average Sales, Item Types, and Outlet Sizes, helping drive data-informed decisions on marketing, inventory, and expansion strategy.
 
 
@@ -41,4 +42,5 @@ Key Insights
 - Product categories like Fruits, Snacks, and Dairy performed best.
 - Customer ratings ranged between 3.8–4.1, indicating steady satisfaction across regions.
 - Newer outlets (established after 2005) showed stronger sales growth.
-![Alt Text]()
+![Alt Text](https://github.com/Harshitha-parupalli1/blinkit-Analysis/blob/main/BLINKIT-snap%20shot.png)
+
