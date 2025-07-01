@@ -41,4 +41,4 @@ Key Insights
 - Product categories like Fruits, Snacks, and Dairy performed best.
 - Customer ratings ranged between 3.8–4.1, indicating steady satisfaction across regions.
 - Newer outlets (established after 2005) showed stronger sales growth.
-
+![Alt Text]()
